@@ -18,7 +18,7 @@ jQuery.get(this.url.replace("{QUERY}", directObject.text), function(doc){
       var tempElement = CmdUtils.getHiddenWindow().document.createElementNS("http://www.w3.org/1999/xhtml", "div");
 tempElement.innerHTML = doc.replace(/href=\"\//g, "href=\"http:\/\/github.com\/");
   var results = jQuery("div.results:first", tempElement);
-  results.attr("width", pblock.width)
+    results.attr("width", pblock.getAttribute('width'));
     pblock.innerHTML = results.html();
 });
 
