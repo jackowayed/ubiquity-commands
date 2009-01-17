@@ -6,6 +6,7 @@
     takes: {"Query": noun_arb_text},
     license: "MIT",
     url: "http://rubyforge.org/search/?type_of_search=soft&Search=Search&words={QUERY}",
+    icon: "http://static.rubyforge.vm.bytemark.co.uk/themes/rubyforge/images/favicon.ico",
     description: "searches rubyforge.org, a rubygem hosting site",
     help: "Type 'rubyforge foo bar' to search rubyforge projects for 'foo bar'",
     preview: function(pblock, directObject){
