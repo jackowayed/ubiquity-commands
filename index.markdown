@@ -10,7 +10,7 @@ layout: default
 <img border="0" width="90" src="http://github.com/images/modules/download/tar.png"></a>
 </div>
 <h1><a href="http://github.com/jackowayed/ubiquity-commands">ubiquity-commands</a> 
-<span class="small">by <a href="http://github.com/jackowayed">jackowayed</a></small></h1>
+<span class="small">by <a href="http://github.com/jackowayed">jackowayed</a></span></h1>
 <div class="description">
 Ubiquity commands that I've made
 </div>
