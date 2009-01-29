@@ -6,7 +6,7 @@
 	<title>{{page.title}} | jackowayed/ubiquity-commands @ GitHub</title>
 <link rel='stylesheet' type='text/css' href='style.css' />
 {% if page.command-url %}
-  <link rel='commands' href='{{ page.command-url }}' /> 
+  <link rel='commands' href='{{ page.command-url }}' name='{{ page.command-name }}' /> 
 {% endif %} 
 </head>
 <body>

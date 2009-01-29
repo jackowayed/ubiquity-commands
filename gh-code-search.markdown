@@ -1,10 +1,15 @@
 ---
 title: Rubyforge
-command-url: http://github.com/jackowayed/ubiquity-commands/raw/master/commands/rubyforge.js
+command-url: http://github.com/jackowayed/ubiquity-commands/raw/master/commands/gh-code-search.js
 layout: default
 ---
 Rubyforge Search Command
 ========================
+
+Syntax
+------
+The preview shows you the special syntax for specifying certain attributes, but it's formatted badly. 
+
 
 Get it
 ------
