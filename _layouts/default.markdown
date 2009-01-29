@@ -5,9 +5,9 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 	<title>{{page.title}} | jackowayed/ubiquity-commands @ GitHub</title>
 <link rel='stylesheet' type='text/css' href='style.css' />
-{{ if page.command-url}}
+{% if page.command-url %}
   <link rel='commands' href='{{ page.command-url }}' /> 
-{{ endif }} 
+{% endif %} 
 </head>
 <body>
 <a href="http://github.com/jackowayed/ubiquity-commands"><img style="position: absolute; top: 0; right: 0; border: 0;" src="http://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub" /></a>
