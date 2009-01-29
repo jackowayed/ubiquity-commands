@@ -7,8 +7,10 @@
 
 	<title>{{page.title}} | jackowayed/ubiquity-commands @ GitHub</title>
 	
-<link rel='stylesheet' type='text/css' href='style.css' />
-<link rel='commands' href='{{ page.command-url }}' /> {{ if page.command-url}}
+<link rel='stylesheet' type='text/css' href='/style.css' />
+{{ if page.command-url}}
+  <link rel='commands' href='{{ page.command-url }}' /> 
+{{ endif }} 
 	
 </head>
 
@@ -17,7 +19,7 @@
   
   <div id="container">
 
-    {{ content }}
+{{ content }}
 
     <div class="footer">
       get the source code on GitHub : <a href="http://github.com/jackowayed/ubiquity-commands">jackowayed/ubiquity-commands</a>
