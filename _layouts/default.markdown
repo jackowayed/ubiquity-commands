@@ -19,7 +19,7 @@
   
   <div id="container">
 
-{{ content }}
+    {{ content }}
 
     <div class="footer">
       get the source code on GitHub : <a href="http://github.com/jackowayed/ubiquity-commands">jackowayed/ubiquity-commands</a>
