@@ -10,7 +10,7 @@
     description: "searches rubyforge.org, a rubygem hosting site",
     help: "Type 'rubyforge foo bar' to search rubyforge projects for 'foo bar'",
     preview: function(pblock, directObject){
-    if (directObject.text<1){pblock.innerHTML = "Search <b>RubyForge</b>"; return;}
+    if (directObject.text.length<1){pblock.innerHTML = "Search <b>RubyForge</b>"; return;}
       jQuery.get(this.url.replace("{QUERY}", directObject.text), function(doc){
       var tempElement = CmdUtils.getHiddenWindow().document.createElementNS("http://www.w3.org/1999/xhtml", "div");
 tempElement.innerHTML = doc.replace(/href=\"\//g, "href=\"http:\/\/rubyforge.org\/");
