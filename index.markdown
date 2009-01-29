@@ -1,20 +1,6 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-<head>
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-
-	<title>jackowayed/ubiquity-commands @ GitHub</title>
-	
-<link rel='stylesheet' type='text/css' href='style.css' />
-	
-</head>
-
-<body>
-  <a href="http://github.com/jackowayed/ubiquity-commands"><img style="position: absolute; top: 0; right: 0; border: 0;" src="http://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub" /></a>
-  
-  <div id="container">
+---
+title: Home
+---
 
     <div class="download">
       <a href="http://github.com/jackowayed/ubiquity-commands/zipball/master">
@@ -32,6 +18,14 @@
 
     <p>These are ubiquity commands that I've written. Use them, tell people about them, and fork and improve them if you like them.</p><h2>Dependencies</h2>
 <p>[ubiquity](http://ubiquity.mozilla.com/)</p>
+
+Commands
+--------
+
+* [Rubyforge Search](/commands/rubyforge.html) &mdash; Searches projects on [Rubyforge](http://rubyforge.org), a rubygems hosting site. 
+* [Github Code Search](/commands/gh-code-search.html) &mdash; Search the code on [Github](http://github.com/)
+
+
 <h2>Install</h2>
 <p>Either get the code from my github repository and copy-and-paste it into your command editor or subscribe to them on this site. </p>
 <h2>License</h2>
@@ -73,13 +67,3 @@ THE SOFTWARE.
       by running:
       <pre>$ git clone git://github.com/jackowayed/ubiquity-commands</pre>
     </p>
-      
-    <div class="footer">
-      get the source code on GitHub : <a href="http://github.com/jackowayed/ubiquity-commands">jackowayed/ubiquity-commands</a>
-    </div>
-    
-  </div>
-
-  
-</body>
-</html>
