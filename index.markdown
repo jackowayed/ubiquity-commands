@@ -20,8 +20,8 @@ Ubiquity commands that I've made
 Commands
 --------
 
-* [Rubyforge Search](/commands/rubyforge.html) &mdash; Searches projects on [Rubyforge](http://rubyforge.org), a rubygems hosting site. 
-* [Github Code Search](/commands/gh-code-search.html) &mdash; Search the code on [Github](http://github.com/)
+* [Rubyforge Search](rubyforge.html) &mdash; Searches projects on [Rubyforge](http://rubyforge.org), a rubygems hosting site. 
+* [Github Code Search](gh-code-search.html) &mdash; Search the code on [Github](http://github.com/)
 
 
 <h2>Install</h2>

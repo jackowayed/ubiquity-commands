@@ -4,7 +4,7 @@
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 	<title>{{page.title}} | jackowayed/ubiquity-commands @ GitHub</title>
-<link rel='stylesheet' type='text/css' href='/style.css' />
+<link rel='stylesheet' type='text/css' href='style.css' />
 {{ if page.command-url}}
   <link rel='commands' href='{{ page.command-url }}' /> 
 {{ endif }} 
