@@ -1,6 +1,7 @@
 ---
 title: Rubyforge
 command-url: http://github.com/jackowayed/ubiquity-commands/raw/master/commands/rubyforge.js
+layout: default
 ---
 Rubyforge Search Command
 ========================
