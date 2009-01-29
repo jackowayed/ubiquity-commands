@@ -15,14 +15,15 @@ layout: default
 Ubiquity commands that I've made
 </div>
 <p>These are ubiquity commands that I've written. Use them, tell people about them, and fork and improve them if you like them.</p><h2>Dependencies</h2>
-<p>[ubiquity](http://ubiquity.mozilla.com/)</p>
+
+[Ubiquity](http://ubiquity.mozilla.com/)
 
 Commands
 --------
 
 * [Rubyforge Search](rubyforge.html) &mdash; Searches projects on [Rubyforge](http://rubyforge.org), a rubygems hosting site. 
 * [Github Code Search](gh-code-search.html) &mdash; Search the code on [Github](http://github.com/)
-
+* [Date](date.html) &mdash; Just here to figure out why these ubiq commands aren't working. 
 
 <h2>Install</h2>
 <p>Either get the code from my github repository and copy-and-paste it into your command editor or subscribe to them on this site. </p>
