@@ -21,9 +21,11 @@ Ubiquity commands that I've made
 Commands
 --------
 
+<h3 style="color: red"> WARNING: Currently there is a bug making the commands not work if you use the normal "subscribe" method. You can go to the repo and copy-and-paste the code in. (Use the "raw" links to get the code w/o all of the line numbers and such.)</h3>
+
 * [Rubyforge Search](rubyforge.html) &mdash; Searches projects on [Rubyforge](http://rubyforge.org), a rubygems hosting site. 
-* [Github Code Search](gh-code-search.html) &mdash; Search the code on [Github](http://github.com/)
-* [Date](date.html) &mdash; Just here to figure out why these ubiq commands aren't working. 
+<!--* [Github Code Search](gh-code-search.html) &mdash; Search the code on [Github](http://github.com/)
+* [Date](date.html) &mdash; Just here to figure out why these ubiq commands aren't working. -->
 
 <h2>Install</h2>
 <p>Either get the code from my github repository and copy-and-paste it into your command editor or subscribe to them on this site. </p>
